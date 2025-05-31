@@ -6,7 +6,7 @@ A secure and user-friendly full-stack Password Manager web application to store,
 
 **Frontend:**
 - React.js
-- Tailwind CSS (or your preferred styling library)
+- Tailwind CSS
 - Axios
 
 **Backend:**
